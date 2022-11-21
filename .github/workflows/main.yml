@@ -1,0 +1,3 @@
+      matrix:
+        os-version: [ windows-latest ]
+        compiler: [ latest, gcc-latest, gcc-6.4.0, gcc-10.2.0, g++-11.2.0, clang, clang-8.0.0, clang-11.1.0, clang++-12.0.1 ]
